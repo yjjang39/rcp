@@ -31,13 +31,6 @@
 
 
 ## 사이트 바로가기
-<https://project-react-diary.web.app/>
-
-
-[3차 프로젝트 기획서 바로가기](https://yjjang39.github.io/react-diary/diary_upload.pdf)
-
-
-
 
 
 
