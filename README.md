@@ -25,8 +25,8 @@
 
 
 ## 📢 설치 방법
-1. npx create-react-app ch01_5 --template typescript > Enter
-2. code ch01_6
+1. npx create-react-app ProjectName --template typescript > Enter
+2. code ProjectName
 
 
 
